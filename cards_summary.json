@@ -1,0 +1,17 @@
+{
+  "categories": 662,
+  "pictures_total": 32524,
+  "empty_categories": 1,
+  "rendered_categories": 662,
+  "relation": "xoxluska.news_chpu = otkpics.meta_title; image = cdn/otkpics.news_id.otkpics.meta_desc",
+  "xoxluska_path": "D:\\pyt\\vercel\\cards\\naxuin5j9y_news_xoxluska.sql",
+  "otkpics_path": "D:\\pyt\\vercel\\cards\\naxuin5j9y_news_otkpics.sql",
+  "widgets_mobile_after": [
+    2,
+    6,
+    15,
+    30
+  ],
+  "out": "dist\\cards",
+  "upload": "upload\\cards"
+}
